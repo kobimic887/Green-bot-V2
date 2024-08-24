@@ -1,8 +1,8 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Green bot" src="https://tools.bananonz.dev/av?id=783708073390112830">
-    <h3>Green-bot</h3>
+    <h3>Green-bot V2</h3>
         If you liked this repository, feel free to leave a star ⭐ and follow me, it supports me a lot! Thanks you!
     <br><br>
-    <p>Green-bot is a Free Discord Music bot that can play music right into your discord server! The bot does not support youtube, deezer or spotiy.
+    <p>Green-bot V2 is a Free Discord Music bot that can play music right into your discord server! The bot does not support youtube, deezer or spotiy.
   <br> 
     </p>
     <br>
@@ -15,7 +15,7 @@
                 color: white;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" rel="nofollow" class="blue-btn" href="https://green-bot.app/invite"> Add the main bot •</a>
+                font-weight: bold;" rel="nofollow" class="blue-btn" href="https://Green-bot V2.app/invite"> Add the main bot •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                 padding: 8px 15px;
                 background-color: white;
@@ -29,14 +29,14 @@
                 color: white;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" href="https://green-bot.app/profile"> Dashboard •</a>
+                font-weight: bold;" href="https://Green-bot V2.app/profile"> Dashboard •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                        padding: 8px 15px;
                        background-color: white;
                        color: black;
                        border-radius: 8px;
                        font-size: 16px;
-                       font-weight: bold;" href="https://green-bot.app/commands"> Commands list </a>
+                       font-weight: bold;" href="https://Green-bot V2.app/commands"> Commands list </a>
         </div>
     </center>
     
@@ -61,13 +61,13 @@
 
 Note: 
 - If you need help with the installation, you can join our [Discord Server](https://discord.gg/Q5QSbAHaXB).
-- The code isn't the same as production, this version is made to learn people how it works but it's not the same as Green-Bot.
+- The code isn't the same as production, this version is made to learn people how it works but it's not the same as Green-bot V2.
 
 Before you start, please consider that if you want to self-host this bot for personal use you should purchase a custom bot. Installation is not beginner friendly.
 
 And yes, it's same for replit.
 
-You are looking for the All-in-One bot? [Click here](https://github.com/GreenBotDeveloppement/Green-bot/tree/multipropose)
+You are looking for the All-in-One bot? [Click here](https://github.com/GreenBotDeveloppement/Green-bot V2/tree/multipropose)
 
 Before starting, make you sure you have a mongoDB database (it's free) and nodejs v16.
 
